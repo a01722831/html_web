@@ -1,0 +1,11 @@
+#miparrafo {color: red; font-family: Verdana, Geneva, Tahoma, sans-serif;}
+
+h1 {color: rgb(253, 160, 160); font-family: fantasy;}
+/* h1 { color :rgb(from rgb(34, 19, 238) r g b); font-family: fantasy;} */
+li > a {color:aquamarine}
+
+.boton {background-color: #8a2be2;}
+
+li > a{color: rgb(221, 0, 0);}
+
+.boton:hover{background-color: blanchedalmond;}
